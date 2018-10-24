@@ -1,0 +1,17 @@
+INFO:root:Processing tweets jsons...
+100%|███████████████████████████████████████| 1072/1072 [19:48<00:00,  1.11s/it]
+INFO:root:# raw tweets: 1135099
+INFO:root:# final tweets: 79634
+INFO:root:% final tweets: 7.0155995203942565
+INFO:root:% with geo key: 10.790864937771948
+INFO:root:% with no geo key but with place:
+admin           31.747363
+city            54.278437
+country          1.595456
+neighborhood     0.753855
+poi              0.731478
+dtype: float64
+INFO:root:Saving processed tweets data...
+INFO:root:Done!
+CPU times: user 23.7 s, sys: 7.43 s, total: 31.1 s
+Wall time: 19min 51s
