@@ -16,4 +16,4 @@ six==1.11.0
 sklearn==0.0
 tqdm==4.19.6
 utm==0.4.2
-wheel==0.30.0
+wheel==0.38.1
